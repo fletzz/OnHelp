@@ -4,7 +4,7 @@ Este repositório é dedicado à **distribuição das versões APK** do aplicati
 
 ## 🔽 Baixar o aplicativo
 
-Acesse a aba [Releases](https://github.com/fletzz/releases) para baixar a versão mais recente do app.
+Acesse a aba [Releases](https://github.com/fletzz/OnHelp/releases) para baixar a versão mais recente do app.
 
 > O arquivo `.apk` está disponível em cada release. Basta baixar e instalar no seu dispositivo Android.
 
